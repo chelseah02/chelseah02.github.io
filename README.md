@@ -1,1 +1,2 @@
-# This is my personal portfolio site. Check it out to learn more about my education, projects, experience, and career goals. 
+# chelseah02.github.io
+Check out my personal portfolio to learn more about me. Built with HTML, CSS, and Bootstrap 4.
